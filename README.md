@@ -1,4 +1,4 @@
-# Merry Christmas from mokagio
+# Merry Christmas from Mohit Anand
 
 ## Credits
 
@@ -12,4 +12,4 @@ I quickly put together this greetings page using pieces of art and code around t
 
 ## About
 
-I'm Giovanni Lodi a [freelance iOS software engineer](http://giovannilodi.com). You can find more about me on Twitter [@mokagio](http://twitter.com/mokagio) and on my blog [mokacoding.com](http://mokacoding.com).
+I'm Mohit Anand a [freelance software engineer] (https://mohitanand-hub.github.io/portfolio/). 
